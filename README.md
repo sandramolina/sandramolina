@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandramolina
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently studying Software Development @CodeClan
 - 💞️ I’m looking to collaborate on website creation
 - 📫 How to reach me molina.sandra.101@gmail.com 
 
