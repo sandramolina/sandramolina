@@ -4,14 +4,12 @@
 - 💞️ I’m looking to collaborate on website creation
 - 📫 How to reach me:
   <a href='https://www.linkedin.com/in/sandramolinaok/'>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"
         />
   </a>
 
 <p align = "left">
     <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
