@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sandramolina
-- 👀 I’m interested in Web Dev
+- 👋 Hi, I’m @sandramolina, I'm a Software Engineer based in Edinburgh.
+- 👀 I’m interested in full-stack Web Development (JavaScript, React, NodeJS, C#, Java, Python)
 - 🌱 I’m currently studying Software Development @CodeClan
 - 💞️ I’m looking to collaborate on website creation
 - <a href='https://www.linkedin.com/in/sandramolinaok/'>
