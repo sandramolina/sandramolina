@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandramolina, I'm a Software Engineer based in Edinburgh.
+- 👋 Hi, I’m @sandramolina (she/her), I'm a Software Engineer based in Edinburgh.
 - 👀 I’m interested in full-stack Web Development (JavaScript, React, NodeJS, C#, Java, Python)
 - 🌱 I’m currently studying Software Development @CodeClan
 - 💞️ I’m looking to collaborate on website creation
