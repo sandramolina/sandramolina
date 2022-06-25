@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack Web Development (JavaScript, React, NodeJS, C#, Java, Python)
 - 🌱 I’m currently studying Software Development @CodeClan
 - 💞️ I’m looking to collaborate on website creation
-- Tech stack and tooling 🦾 :
+- 🦾 Tech stack and tooling:
 <p align = "left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"/>
