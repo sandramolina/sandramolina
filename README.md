@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   
 </p>
-- Let's get in touch:
+- 📧 Let's get in touch:
 <p align = "left">
   <a href='https://www.linkedin.com/in/sandramolinaok/'>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"
