@@ -10,10 +10,13 @@
 <p align = "left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&amp;logo=cypress&amp;logoColor=058a5e" style="max-width: 100%;">
-    <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&amp;logo=cypress&amp;logoColor=058a5e" style="max-width: 100%;">      
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </p>
 <a href="https://hits.seeyoufarm.com">
