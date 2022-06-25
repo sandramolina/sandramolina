@@ -31,7 +31,7 @@
   </a>
 </p>
 
-- Current fav music 💜 </br>
+- 💜 Current fav music:
 <a href="https://open.spotify.com/playlist/7l2Ojd99QVHRCHlp5iMlTT?si=b9debc1a30664df3">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
