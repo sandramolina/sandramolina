@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"
         />
   </a>
-- Current fav music 💜 <a href="https://open.spotify.com/playlist/7l2Ojd99QVHRCHlp5iMlTT?si=b9debc1a30664df3">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)"/>
+- Current fav music 💜 => <a href="https://open.spotify.com/playlist/7l2Ojd99QVHRCHlp5iMlTT?si=b9debc1a30664df3">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 
 <p align = "left">
