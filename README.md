@@ -18,27 +18,26 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  
-</p>
-- 📧 Let's get in touch:
-<p align = "left">
-  <a href='https://www.linkedin.com/in/sandramolinaok/'>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"
-        />
-  </a>
-  <a href="mailto:smolinapalencia@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
+
+</p>
 - 💜 Current fav music:
 <p align = "left">
     <a href="https://open.spotify.com/playlist/7l2Ojd99QVHRCHlp5iMlTT?si=b9debc1a30664df3">
         <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
     </a>
 </p>
+- 📧 Let's get in touch:
+<p align = "left">
+  <a href='https://www.linkedin.com/in/sandramolinaok/'>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="mailto:smolinapalencia@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <!--<a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandramolina%2Fsandramolina&count_bg=%23B85CCF&title_bg=%23ACA2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-    
+
  https://hendrasob.github.io/badges/ -->
