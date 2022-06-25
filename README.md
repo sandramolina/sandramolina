@@ -3,13 +3,14 @@
 - 🌱 I’m currently studying Software Development @CodeClan
 - 💞️ I’m looking to collaborate on website creation
 - Let's get in touch:
-<a href='https://www.linkedin.com/in/sandramolinaok/'>
+  <a href='https://www.linkedin.com/in/sandramolinaok/'>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"
         />
   </a>
   <a href="mailto:smolinapalencia@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   </a>
+  
 - Tech stack and tooling 🦾 :
 <p align = "left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
