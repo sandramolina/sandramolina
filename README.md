@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"
         />
   </a>
+- <a href="https://open.spotify.com/playlist/7l2Ojd99QVHRCHlp5iMlTT?si=b9debc1a30664df3">
+    <img src="https://img.shields.io/badge/1001tracklists-40AEF0?style=for-the-badge&logo=1001tracklists&logoColor=white"/>
+  </a>
 
 <p align = "left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
