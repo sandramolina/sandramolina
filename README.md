@@ -1,7 +1,7 @@
 <ul>
 <li>👋 Hi, I’m @sandramolina (she/her), I'm a Software Engineer based in Edinburgh.</li>
 <li>👀 I’m interested in full-stack Web Development (JavaScript, Java, Python, and cloud)</li>
-<li>🌱 I’m currently studying Software Development @CodeClan</li>
+<li>🌱 Graduated from Software Development @CodeClan</li>
 <li>💞️ I’m looking to collaborate on website creation</li>
 <li>🦾 Tech stack and tooling:
   <p align = "left">
